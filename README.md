@@ -1,4 +1,7 @@
 # AMAZON-PRODUCTS-SALES-ANALYSIS Power BI Dashboard
+# Dashboard
+![01cada77a0a7d326d85b7969fe26a728](https://github.com/user-attachments/assets/83242164-f078-4f76-8400-fa986472892e)
+
 # Project Overview
 This project presents an interactive Power BI dashboard developed to analyze Amazon product sales data and derive meaningful business insights. The dashboard focuses on sales performance, category-wise contribution, and trend analysis to support data-driven decision-making.
 
