@@ -51,18 +51,12 @@ The dataset includes information related to:
   * Open .pbix file (if shared) in Power BI Desktop
   * Interact with filters and visuals
 
- # Use Case
-
+# Use Case
 * Academic project
 * Data analytics portfolio
 * Internship / entry-level analyst showcase
 
-👤 Author
-
-Aman Kumar Singh
-Master’s in Statistics
-Aspiring Data Analyst / Data Scientist
-
-📧 Email: aksingh1652@gmail.com
-
-🔗 LinkedIn: (add your LinkedIn profile link here)
+## Author
+* Aman Kumar Singh
+* www.linkedin.com/in/aman-kumar-singh-71a090206
+* aksingh1652@gmail.com
