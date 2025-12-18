@@ -1,4 +1,4 @@
-# AMAZON-PRODUCTS-SALES-ANALYSIS Power BI Dashboard
+# AMAZON-PRODUCTS-SALES-ANALYSIS Power BI Dashboar
 ## Dashboard
 ![Amazon sales_page-0001](https://github.com/user-attachments/assets/fd7ac62a-3b30-4327-9977-f7dc034d8ad6)
 
